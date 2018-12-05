@@ -2,7 +2,7 @@
 
 Click on Binder icon below.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nd7141/notebooks/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/criteo-research/iclr_analysis/master)
 
 
 After some time (it may take up to 2-3 minutes, be patient) binder will load the environment and you can use familiar Jupyter interface. For example, clicking on `ICLR_Reviews.ipynb`, you will open the notebook with the analysis of ICLR reviews. Note that in the tools like nbviewer or colab _qgrid_ library does not display the tables, so that's why by default the table in the notebook is not visible, and you have to generate the table by running the cells yourself. 
