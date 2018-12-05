@@ -1,0 +1,13 @@
+name: qgrid-environment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - qgrid
+  - matplotlib
+  - seaborn
+  - pip:
+    - openreview-py
+    - numpy
+    - pandas
+    - jellyfish
