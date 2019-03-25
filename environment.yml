@@ -3,7 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - qgrid
   - matplotlib
   - seaborn
   - pip:
@@ -11,3 +10,4 @@ dependencies:
     - numpy
     - pandas
     - jellyfish
+    - qgrid
